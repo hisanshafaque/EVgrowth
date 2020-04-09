@@ -1,0 +1,1453 @@
+year,AREA_LONG_,ward_evpop,EV_Load
+2013,1. Etobicoke North,7,18.5
+2013,2. Etobicoke North,7,18.5
+2013,3. Etobicoke Centre,8,21.15
+2013,4. Etobicoke Centre,9,23.79
+2013,5. Etobicoke-Lakeshore,9,23.79
+2013,6. Etobicoke-Lakeshore,8,21.15
+2013,7. York West,6,15.86
+2013,8. York West,6,15.86
+2013,9. York Centre,6,15.86
+2013,10. York Centre,8,21.15
+2013,11. York South-Weston,7,18.5
+2013,12. York South-Weston,6,15.86
+2013,13. Parkdale-High Park,8,21.15
+2013,14. Parkdale-High Park,7,18.5
+2013,15. Eglinton-Lawrence,7,18.5
+2013,16. Eglinton-Lawrence,11,29.08
+2013,17. Davenport,7,18.5
+2013,18. Davenport,6,15.86
+2013,19. Trinity-Spadina,8,21.15
+2013,20. Trinity-Spadina,10,26.43
+2013,21. St. Paul's,9,23.79
+2013,22. St. Paul's,11,29.08
+2013,23. Willowdale,10,26.43
+2013,24. Willowdale,9,23.79
+2013,25. Don Valley West,13,34.37
+2013,26. Don Valley West,8,21.15
+2013,27. Toronto Centre-Rosedale,11,29.08
+2013,28. Toronto Centre-Rosedale,8,21.15
+2013,29. Toronto-Danforth,7,18.5
+2013,30. Toronto-Danforth,8,21.15
+2013,31. Beaches-East York,7,18.5
+2013,32. Beaches-East York,9,23.79
+2013,33. Don Valley East,7,18.5
+2013,34. Don Valley East,7,18.5
+2013,35. Scarborough Southwest,7,18.5
+2013,36. Scarborough Southwest,7,18.5
+2013,37. Scarborough Centre,7,18.5
+2013,38. Scarborough Centre,7,18.5
+2013,39. Scarborough Agincourt,7,18.5
+2013,40. Scarborough Agincourt,7,18.5
+2013,41. Scarborough-Rouge River,8,21.15
+2013,42. Scarborough-Rouge River,8,21.15
+2013,43. Scarborough East,7,18.5
+2013,44. Scarborough East,9,23.79
+2014,1. Etobicoke North,10,26.43
+2014,2. Etobicoke North,11,29.08
+2014,3. Etobicoke Centre,12,31.72
+2014,4. Etobicoke Centre,13,34.37
+2014,5. Etobicoke-Lakeshore,14,37.01
+2014,6. Etobicoke-Lakeshore,12,31.72
+2014,7. York West,9,23.79
+2014,8. York West,9,23.79
+2014,9. York Centre,9,23.79
+2014,10. York Centre,12,31.72
+2014,11. York South-Weston,11,29.08
+2014,12. York South-Weston,10,26.43
+2014,13. Parkdale-High Park,13,34.37
+2014,14. Parkdale-High Park,10,26.43
+2014,15. Eglinton-Lawrence,11,29.08
+2014,16. Eglinton-Lawrence,18,47.58
+2014,17. Davenport,10,26.43
+2014,18. Davenport,10,26.43
+2014,19. Trinity-Spadina,12,31.72
+2014,20. Trinity-Spadina,15,39.65
+2014,21. St. Paul's,13,34.37
+2014,22. St. Paul's,16,42.3
+2014,23. Willowdale,15,39.65
+2014,24. Willowdale,13,34.37
+2014,25. Don Valley West,20,52.87
+2014,26. Don Valley West,12,31.72
+2014,27. Toronto Centre-Rosedale,17,44.94
+2014,28. Toronto Centre-Rosedale,12,31.72
+2014,29. Toronto-Danforth,11,29.08
+2014,30. Toronto-Danforth,12,31.72
+2014,31. Beaches-East York,10,26.43
+2014,32. Beaches-East York,13,34.37
+2014,33. Don Valley East,11,29.08
+2014,34. Don Valley East,11,29.08
+2014,35. Scarborough Southwest,10,26.43
+2014,36. Scarborough Southwest,11,29.08
+2014,37. Scarborough Centre,11,29.08
+2014,38. Scarborough Centre,11,29.08
+2014,39. Scarborough Agincourt,11,29.08
+2014,40. Scarborough Agincourt,11,29.08
+2014,41. Scarborough-Rouge River,12,31.72
+2014,42. Scarborough-Rouge River,13,34.37
+2014,43. Scarborough East,10,26.43
+2014,44. Scarborough East,13,34.37
+2015,1. Etobicoke North,16,42.3
+2015,2. Etobicoke North,16,42.3
+2015,3. Etobicoke Centre,19,50.23
+2015,4. Etobicoke Centre,20,52.87
+2015,5. Etobicoke-Lakeshore,22,58.16
+2015,6. Etobicoke-Lakeshore,18,47.58
+2015,7. York West,14,37.01
+2015,8. York West,13,34.37
+2015,9. York Centre,14,37.01
+2015,10. York Centre,19,50.23
+2015,11. York South-Weston,16,42.3
+2015,12. York South-Weston,15,39.65
+2015,13. Parkdale-High Park,20,52.87
+2015,14. Parkdale-High Park,16,42.3
+2015,15. Eglinton-Lawrence,17,44.94
+2015,16. Eglinton-Lawrence,27,71.37
+2015,17. Davenport,16,42.3
+2015,18. Davenport,15,39.65
+2015,19. Trinity-Spadina,19,50.23
+2015,20. Trinity-Spadina,23,60.8
+2015,21. St. Paul's,20,52.87
+2015,22. St. Paul's,25,66.09
+2015,23. Willowdale,24,63.44
+2015,24. Willowdale,20,52.87
+2015,25. Don Valley West,31,81.95
+2015,26. Don Valley West,19,50.23
+2015,27. Toronto Centre-Rosedale,26,68.73
+2015,28. Toronto Centre-Rosedale,19,50.23
+2015,29. Toronto-Danforth,16,42.3
+2015,30. Toronto-Danforth,18,47.58
+2015,31. Beaches-East York,16,42.3
+2015,32. Beaches-East York,21,55.51
+2015,33. Don Valley East,17,44.94
+2015,34. Don Valley East,17,44.94
+2015,35. Scarborough Southwest,16,42.3
+2015,36. Scarborough Southwest,17,44.94
+2015,37. Scarborough Centre,17,44.94
+2015,38. Scarborough Centre,17,44.94
+2015,39. Scarborough Agincourt,17,44.94
+2015,40. Scarborough Agincourt,17,44.94
+2015,41. Scarborough-Rouge River,19,50.23
+2015,42. Scarborough-Rouge River,20,52.87
+2015,43. Scarborough East,16,42.3
+2015,44. Scarborough East,20,52.87
+2016,1. Etobicoke North,25,66.09
+2016,2. Etobicoke North,25,66.09
+2016,3. Etobicoke Centre,29,76.66
+2016,4. Etobicoke Centre,31,81.95
+2016,5. Etobicoke-Lakeshore,34,89.88
+2016,6. Etobicoke-Lakeshore,28,74.02
+2016,7. York West,22,58.16
+2016,8. York West,20,52.87
+2016,9. York Centre,21,55.51
+2016,10. York Centre,29,76.66
+2016,11. York South-Weston,25,66.09
+2016,12. York South-Weston,23,60.8
+2016,13. Parkdale-High Park,31,81.95
+2016,14. Parkdale-High Park,25,66.09
+2016,15. Eglinton-Lawrence,27,71.37
+2016,16. Eglinton-Lawrence,42,111.03
+2016,17. Davenport,24,63.44
+2016,18. Davenport,23,60.8
+2016,19. Trinity-Spadina,29,76.66
+2016,20. Trinity-Spadina,35,92.52
+2016,21. St. Paul's,31,81.95
+2016,22. St. Paul's,38,100.45
+2016,23. Willowdale,36,95.17
+2016,24. Willowdale,31,81.95
+2016,25. Don Valley West,48,126.89
+2016,26. Don Valley West,29,76.66
+2016,27. Toronto Centre-Rosedale,39,103.1
+2016,28. Toronto Centre-Rosedale,29,76.66
+2016,29. Toronto-Danforth,25,66.09
+2016,30. Toronto-Danforth,28,74.02
+2016,31. Beaches-East York,25,66.09
+2016,32. Beaches-East York,32,84.59
+2016,33. Don Valley East,26,68.73
+2016,34. Don Valley East,26,68.73
+2016,35. Scarborough Southwest,24,63.44
+2016,36. Scarborough Southwest,26,68.73
+2016,37. Scarborough Centre,26,68.73
+2016,38. Scarborough Centre,27,71.37
+2016,39. Scarborough Agincourt,25,66.09
+2016,40. Scarborough Agincourt,26,68.73
+2016,41. Scarborough-Rouge River,29,76.66
+2016,42. Scarborough-Rouge River,30,79.3
+2016,43. Scarborough East,24,63.44
+2016,44. Scarborough East,31,81.95
+2017,1. Etobicoke North,38,100.45
+2017,2. Etobicoke North,39,103.1
+2017,3. Etobicoke Centre,44,116.31
+2017,4. Etobicoke Centre,48,126.89
+2017,5. Etobicoke-Lakeshore,53,140.1
+2017,6. Etobicoke-Lakeshore,43,113.67
+2017,7. York West,34,89.88
+2017,8. York West,31,81.95
+2017,9. York Centre,32,84.59
+2017,10. York Centre,44,116.31
+2017,11. York South-Weston,38,100.45
+2017,12. York South-Weston,35,92.52
+2017,13. Parkdale-High Park,47,124.24
+2017,14. Parkdale-High Park,38,100.45
+2017,15. Eglinton-Lawrence,41,108.38
+2017,16. Eglinton-Lawrence,64,169.18
+2017,17. Davenport,37,97.81
+2017,18. Davenport,35,92.52
+2017,19. Trinity-Spadina,45,118.96
+2017,20. Trinity-Spadina,53,140.1
+2017,21. St. Paul's,48,126.89
+2017,22. St. Paul's,59,155.97
+2017,23. Willowdale,56,148.03
+2017,24. Willowdale,48,126.89
+2017,25. Don Valley West,74,195.62
+2017,26. Don Valley West,45,118.96
+2017,27. Toronto Centre-Rosedale,61,161.25
+2017,28. Toronto Centre-Rosedale,45,118.96
+2017,29. Toronto-Danforth,39,103.1
+2017,30. Toronto-Danforth,43,113.67
+2017,31. Beaches-East York,38,100.45
+2017,32. Beaches-East York,49,129.53
+2017,33. Don Valley East,40,105.74
+2017,34. Don Valley East,41,108.38
+2017,35. Scarborough Southwest,38,100.45
+2017,36. Scarborough Southwest,40,105.74
+2017,37. Scarborough Centre,40,105.74
+2017,38. Scarborough Centre,41,108.38
+2017,39. Scarborough Agincourt,39,103.1
+2017,40. Scarborough Agincourt,39,103.1
+2017,41. Scarborough-Rouge River,45,118.96
+2017,42. Scarborough-Rouge River,46,121.6
+2017,43. Scarborough East,37,97.81
+2017,44. Scarborough East,48,126.89
+2018,1. Etobicoke North,59,155.97
+2018,2. Etobicoke North,60,158.61
+2018,3. Etobicoke Centre,67,177.11
+2018,4. Etobicoke Centre,73,192.97
+2018,5. Etobicoke-Lakeshore,81,214.12
+2018,6. Etobicoke-Lakeshore,66,174.47
+2018,7. York West,53,140.1
+2018,8. York West,48,126.89
+2018,9. York Centre,50,132.17
+2018,10. York Centre,68,179.76
+2018,11. York South-Weston,59,155.97
+2018,12. York South-Weston,54,142.75
+2018,13. Parkdale-High Park,72,190.33
+2018,14. Parkdale-High Park,58,153.32
+2018,15. Eglinton-Lawrence,63,166.54
+2018,16. Eglinton-Lawrence,99,261.7
+2018,17. Davenport,57,150.68
+2018,18. Davenport,53,140.1
+2018,19. Trinity-Spadina,69,182.4
+2018,20. Trinity-Spadina,82,216.77
+2018,21. St. Paul's,74,195.62
+2018,22. St. Paul's,91,240.56
+2018,23. Willowdale,86,227.34
+2018,24. Willowdale,73,192.97
+2018,25. Don Valley West,113,298.71
+2018,26. Don Valley West,70,185.04
+2018,27. Toronto Centre-Rosedale,93,245.84
+2018,28. Toronto Centre-Rosedale,70,185.04
+2018,29. Toronto-Danforth,59,155.97
+2018,30. Toronto-Danforth,66,174.47
+2018,31. Beaches-East York,58,153.32
+2018,32. Beaches-East York,75,198.26
+2018,33. Don Valley East,61,161.25
+2018,34. Don Valley East,63,166.54
+2018,35. Scarborough Southwest,58,153.32
+2018,36. Scarborough Southwest,62,163.9
+2018,37. Scarborough Centre,62,163.9
+2018,38. Scarborough Centre,63,166.54
+2018,39. Scarborough Agincourt,60,158.61
+2018,40. Scarborough Agincourt,61,161.25
+2018,41. Scarborough-Rouge River,69,182.4
+2018,42. Scarborough-Rouge River,71,187.69
+2018,43. Scarborough East,57,150.68
+2018,44. Scarborough East,74,195.62
+2019,1. Etobicoke North,90,237.91
+2019,2. Etobicoke North,91,240.56
+2019,3. Etobicoke Centre,104,274.92
+2019,4. Etobicoke Centre,113,298.71
+2019,5. Etobicoke-Lakeshore,124,327.79
+2019,6. Etobicoke-Lakeshore,102,269.63
+2019,7. York West,81,214.12
+2019,8. York West,73,192.97
+2019,9. York Centre,76,200.9
+2019,10. York Centre,105,277.57
+2019,11. York South-Weston,91,240.56
+2019,12. York South-Weston,82,216.77
+2019,13. Parkdale-High Park,111,293.43
+2019,14. Parkdale-High Park,89,235.27
+2019,15. Eglinton-Lawrence,97,256.42
+2019,16. Eglinton-Lawrence,152,401.81
+2019,17. Davenport,88,232.63
+2019,18. Davenport,82,216.77
+2019,19. Trinity-Spadina,106,280.21
+2019,20. Trinity-Spadina,126,333.08
+2019,21. St. Paul's,114,301.36
+2019,22. St. Paul's,139,367.44
+2019,23. Willowdale,132,348.94
+2019,24. Willowdale,113,298.71
+2019,25. Don Valley West,174,459.97
+2019,26. Don Valley West,107,282.85
+2019,27. Toronto Centre-Rosedale,143,378.02
+2019,28. Toronto Centre-Rosedale,107,282.85
+2019,29. Toronto-Danforth,91,240.56
+2019,30. Toronto-Danforth,102,269.63
+2019,31. Beaches-East York,90,237.91
+2019,32. Beaches-East York,115,304
+2019,33. Don Valley East,94,248.49
+2019,34. Don Valley East,96,253.77
+2019,35. Scarborough Southwest,89,235.27
+2019,36. Scarborough Southwest,95,251.13
+2019,37. Scarborough Centre,95,251.13
+2019,38. Scarborough Centre,97,256.42
+2019,39. Scarborough Agincourt,92,243.2
+2019,40. Scarborough Agincourt,93,245.84
+2019,41. Scarborough-Rouge River,106,280.21
+2019,42. Scarborough-Rouge River,109,288.14
+2019,43. Scarborough East,87,229.98
+2019,44. Scarborough East,114,301.36
+2020,1. Etobicoke North,138,364.8
+2020,2. Etobicoke North,140,370.09
+2020,3. Etobicoke Centre,159,420.31
+2020,4. Etobicoke Centre,173,457.32
+2020,5. Etobicoke-Lakeshore,191,504.9
+2020,6. Etobicoke-Lakeshore,156,412.38
+2020,7. York West,124,327.79
+2020,8. York West,112,296.07
+2020,9. York Centre,117,309.29
+2020,10. York Centre,160,422.96
+2020,11. York South-Weston,139,367.44
+2020,12. York South-Weston,127,335.72
+2020,13. Parkdale-High Park,170,449.39
+2020,14. Parkdale-High Park,137,362.16
+2020,15. Eglinton-Lawrence,148,391.23
+2020,16. Eglinton-Lawrence,233,615.93
+2020,17. Davenport,135,356.87
+2020,18. Davenport,126,333.08
+2020,19. Trinity-Spadina,163,430.89
+2020,20. Trinity-Spadina,193,510.19
+2020,21. St. Paul's,175,462.61
+2020,22. St. Paul's,214,565.7
+2020,23. Willowdale,203,536.63
+2020,24. Willowdale,173,457.32
+2020,25. Don Valley West,267,705.81
+2020,26. Don Valley West,164,433.53
+2020,27. Toronto Centre-Rosedale,220,581.57
+2020,28. Toronto Centre-Rosedale,164,433.53
+2020,29. Toronto-Danforth,140,370.09
+2020,30. Toronto-Danforth,156,412.38
+2020,31. Beaches-East York,137,362.16
+2020,32. Beaches-East York,176,465.25
+2020,33. Don Valley East,145,383.3
+2020,34. Don Valley East,148,391.23
+2020,35. Scarborough Southwest,136,359.51
+2020,36. Scarborough Southwest,146,385.95
+2020,37. Scarborough Centre,145,383.3
+2020,38. Scarborough Centre,148,391.23
+2020,39. Scarborough Agincourt,142,375.37
+2020,40. Scarborough Agincourt,143,378.02
+2020,41. Scarborough-Rouge River,163,430.89
+2020,42. Scarborough-Rouge River,167,441.46
+2020,43. Scarborough East,134,354.23
+2020,44. Scarborough East,174,459.97
+2021,1. Etobicoke North,212,560.42
+2021,2. Etobicoke North,215,568.35
+2021,3. Etobicoke Centre,244,645.01
+2021,4. Etobicoke Centre,265,700.52
+2021,5. Etobicoke-Lakeshore,292,771.9
+2021,6. Etobicoke-Lakeshore,240,634.43
+2021,7. York West,191,504.9
+2021,8. York West,172,454.68
+2021,9. York Centre,179,473.18
+2021,10. York Centre,246,650.3
+2021,11. York South-Weston,213,563.06
+2021,12. York South-Weston,194,512.83
+2021,13. Parkdale-High Park,261,689.95
+2021,14. Parkdale-High Park,210,555.13
+2021,15. Eglinton-Lawrence,228,602.71
+2021,16. Eglinton-Lawrence,357,943.72
+2021,17. Davenport,206,544.56
+2021,18. Davenport,193,510.19
+2021,19. Trinity-Spadina,250,660.87
+2021,20. Trinity-Spadina,296,782.47
+2021,21. St. Paul's,269,711.1
+2021,22. St. Paul's,328,867.06
+2021,23. Willowdale,311,822.12
+2021,24. Willowdale,266,703.17
+2021,25. Don Valley West,409,1081.18
+2021,26. Don Valley West,252,666.16
+2021,27. Toronto Centre-Rosedale,337,890.85
+2021,28. Toronto Centre-Rosedale,252,666.16
+2021,29. Toronto-Danforth,214,565.7
+2021,30. Toronto-Danforth,239,631.79
+2021,31. Beaches-East York,211,557.77
+2021,32. Beaches-East York,270,713.74
+2021,33. Don Valley East,222,586.85
+2021,34. Don Valley East,226,597.43
+2021,35. Scarborough Southwest,209,552.49
+2021,36. Scarborough Southwest,224,592.14
+2021,37. Scarborough Centre,223,589.5
+2021,38. Scarborough Centre,227,600.07
+2021,39. Scarborough Agincourt,218,576.28
+2021,40. Scarborough Agincourt,219,578.92
+2021,41. Scarborough-Rouge River,250,660.87
+2021,42. Scarborough-Rouge River,257,679.37
+2021,43. Scarborough East,205,541.91
+2021,44. Scarborough East,267,705.81
+2022,1. Etobicoke North,324,856.49
+2022,2. Etobicoke North,330,872.35
+2022,3. Etobicoke Centre,374,988.66
+2022,4. Etobicoke Centre,406,1073.25
+2022,5. Etobicoke-Lakeshore,447,1181.63
+2022,6. Etobicoke-Lakeshore,367,970.16
+2022,7. York West,292,771.9
+2022,8. York West,264,697.88
+2022,9. York Centre,275,726.96
+2022,10. York Centre,377,996.59
+2022,11. York South-Weston,327,864.42
+2022,12. York South-Weston,297,785.11
+2022,13. Parkdale-High Park,400,1057.39
+2022,14. Parkdale-High Park,321,848.56
+2022,15. Eglinton-Lawrence,348,919.93
+2022,16. Eglinton-Lawrence,546,1443.34
+2022,17. Davenport,316,835.34
+2022,18. Davenport,296,782.47
+2022,19. Trinity-Spadina,383,1012.45
+2022,20. Trinity-Spadina,454,1200.14
+2022,21. St. Paul's,411,1086.47
+2022,22. St. Paul's,502,1327.03
+2022,23. Willowdale,476,1258.3
+2022,24. Willowdale,407,1075.9
+2022,25. Don Valley West,626,1654.82
+2022,26. Don Valley West,385,1017.74
+2022,27. Toronto Centre-Rosedale,516,1364.03
+2022,28. Toronto Centre-Rosedale,386,1020.38
+2022,29. Toronto-Danforth,328,867.06
+2022,30. Toronto-Danforth,366,967.51
+2022,31. Beaches-East York,323,853.84
+2022,32. Beaches-East York,414,1094.4
+2022,33. Don Valley East,340,898.78
+2022,34. Don Valley East,347,917.29
+2022,35. Scarborough Southwest,320,845.91
+2022,36. Scarborough Southwest,344,909.36
+2022,37. Scarborough Centre,341,901.43
+2022,38. Scarborough Centre,348,919.93
+2022,39. Scarborough Agincourt,333,880.28
+2022,40. Scarborough Agincourt,336,888.21
+2022,41. Scarborough-Rouge River,383,1012.45
+2022,42. Scarborough-Rouge River,393,1038.89
+2022,43. Scarborough East,314,830.05
+2022,44. Scarborough East,409,1081.18
+2023,1. Etobicoke North,495,1308.52
+2023,2. Etobicoke North,503,1329.67
+2023,3. Etobicoke Centre,570,1506.78
+2023,4. Etobicoke Centre,620,1638.96
+2023,5. Etobicoke-Lakeshore,683,1805.5
+2023,6. Etobicoke-Lakeshore,560,1480.35
+2023,7. York West,446,1178.99
+2023,8. York West,403,1065.32
+2023,9. York Centre,419,1107.62
+2023,10. York Centre,575,1520
+2023,11. York South-Weston,499,1319.1
+2023,12. York South-Weston,454,1200.14
+2023,13. Parkdale-High Park,611,1615.17
+2023,14. Parkdale-High Park,490,1295.3
+2023,15. Eglinton-Lawrence,532,1406.33
+2023,16. Eglinton-Lawrence,834,2204.66
+2023,17. Davenport,482,1274.16
+2023,18. Davenport,452,1194.85
+2023,19. Trinity-Spadina,585,1546.43
+2023,20. Trinity-Spadina,693,1831.93
+2023,21. St. Paul's,628,1660.1
+2023,22. St. Paul's,767,2027.55
+2023,23. Willowdale,726,1919.17
+2023,24. Willowdale,621,1641.6
+2023,25. Don Valley West,956,2527.17
+2023,26. Don Valley West,588,1554.37
+2023,27. Toronto Centre-Rosedale,788,2083.06
+2023,28. Toronto Centre-Rosedale,589,1557.01
+2023,29. Toronto-Danforth,501,1324.38
+2023,30. Toronto-Danforth,559,1477.7
+2023,31. Beaches-East York,493,1303.23
+2023,32. Beaches-East York,632,1670.68
+2023,33. Don Valley East,519,1371.97
+2023,34. Don Valley East,529,1398.4
+2023,35. Scarborough Southwest,488,1290.02
+2023,36. Scarborough Southwest,524,1385.18
+2023,37. Scarborough Centre,521,1377.25
+2023,38. Scarborough Centre,531,1403.69
+2023,39. Scarborough Agincourt,509,1345.53
+2023,40. Scarborough Agincourt,513,1356.1
+2023,41. Scarborough-Rouge River,585,1546.43
+2023,42. Scarborough-Rouge River,600,1586.09
+2023,43. Scarborough East,479,1266.23
+2023,44. Scarborough East,625,1652.17
+2024,1. Etobicoke North,753,1990.54
+2024,2. Etobicoke North,765,2022.26
+2024,3. Etobicoke Centre,868,2294.54
+2024,4. Etobicoke Centre,942,2490.16
+2024,5. Etobicoke-Lakeshore,1039,2746.57
+2024,6. Etobicoke-Lakeshore,852,2252.24
+2024,7. York West,678,1792.28
+2024,8. York West,613,1620.45
+2024,9. York Centre,638,1686.54
+2024,10. York Centre,875,2313.04
+2024,11. York South-Weston,759,2006.4
+2024,12. York South-Weston,690,1824
+2024,13. Parkdale-High Park,929,2455.79
+2024,14. Parkdale-High Park,745,1969.39
+2024,15. Eglinton-Lawrence,809,2138.57
+2024,16. Eglinton-Lawrence,1268,3351.93
+2024,17. Davenport,733,1937.67
+2024,18. Davenport,687,1816.07
+2024,19. Trinity-Spadina,890,2352.7
+2024,20. Trinity-Spadina,1054,2786.23
+2024,21. St. Paul's,955,2524.52
+2024,22. St. Paul's,1166,3082.3
+2024,23. Willowdale,1105,2921.04
+2024,24. Willowdale,944,2495.44
+2024,25. Don Valley West,1454,3843.62
+2024,26. Don Valley West,894,2363.27
+2024,27. Toronto Centre-Rosedale,1198,3166.89
+2024,28. Toronto Centre-Rosedale,896,2368.56
+2024,29. Toronto-Danforth,762,2014.33
+2024,30. Toronto-Danforth,850,2246.96
+2024,31. Beaches-East York,749,1979.97
+2024,32. Beaches-East York,961,2540.38
+2024,33. Don Valley East,789,2085.7
+2024,34. Don Valley East,805,2128
+2024,35. Scarborough Southwest,742,1961.46
+2024,36. Scarborough Southwest,798,2109.5
+2024,37. Scarborough Centre,792,2093.63
+2024,38. Scarborough Centre,808,2135.93
+2024,39. Scarborough Agincourt,774,2046.05
+2024,40. Scarborough Agincourt,780,2061.91
+2024,41. Scarborough-Rouge River,889,2350.05
+2024,42. Scarborough-Rouge River,913,2413.5
+2024,43. Scarborough East,728,1924.45
+2024,44. Scarborough East,951,2513.95
+2025,1. Etobicoke North,1138,3008.28
+2025,2. Etobicoke North,1157,3058.5
+2025,3. Etobicoke Centre,1311,3465.6
+2025,4. Etobicoke Centre,1424,3764.31
+2025,5. Etobicoke-Lakeshore,1570,4150.26
+2025,6. Etobicoke-Lakeshore,1287,3402.16
+2025,7. York West,1024,2706.92
+2025,8. York West,927,2450.5
+2025,9. York Centre,964,2548.31
+2025,10. York Centre,1323,3497.32
+2025,11. York South-Weston,1147,3032.07
+2025,12. York South-Weston,1044,2759.79
+2025,13. Parkdale-High Park,1404,3711.44
+2025,14. Parkdale-High Park,1126,2976.56
+2025,15. Eglinton-Lawrence,1223,3232.97
+2025,16. Eglinton-Lawrence,1917,5067.55
+2025,17. Davenport,1109,2931.62
+2025,18. Davenport,1039,2746.57
+2025,19. Trinity-Spadina,1346,3558.12
+2025,20. Trinity-Spadina,1593,4211.06
+2025,21. St. Paul's,1444,3817.18
+2025,22. St. Paul's,1763,4660.45
+2025,23. Willowdale,1670,4414.61
+2025,24. Willowdale,1428,3774.89
+2025,25. Don Valley West,2199,5813.01
+2025,26. Don Valley West,1352,3573.98
+2025,27. Toronto Centre-Rosedale,1811,4787.34
+2025,28. Toronto Centre-Rosedale,1355,3581.91
+2025,29. Toronto-Danforth,1152,3045.29
+2025,30. Toronto-Danforth,1284,3394.23
+2025,31. Beaches-East York,1133,2995.06
+2025,32. Beaches-East York,1453,3840.97
+2025,33. Don Valley East,1193,3153.67
+2025,34. Don Valley East,1216,3214.47
+2025,35. Scarborough Southwest,1122,2965.98
+2025,36. Scarborough Southwest,1206,3188.03
+2025,37. Scarborough Centre,1198,3166.89
+2025,38. Scarborough Centre,1222,3230.33
+2025,39. Scarborough Agincourt,1169,3090.23
+2025,40. Scarborough Agincourt,1179,3116.66
+2025,41. Scarborough-Rouge River,1344,3552.83
+2025,42. Scarborough-Rouge River,1380,3648
+2025,43. Scarborough East,1101,2910.47
+2025,44. Scarborough East,1437,3798.68
+2026,1. Etobicoke North,1705,4507.13
+2026,2. Etobicoke North,1733,4581.15
+2026,3. Etobicoke Centre,1965,5194.43
+2026,4. Etobicoke Centre,2134,5641.18
+2026,5. Etobicoke-Lakeshore,2352,6217.46
+2026,6. Etobicoke-Lakeshore,1929,5099.27
+2026,7. York West,1535,4057.74
+2026,8. York West,1389,3671.79
+2026,9. York Centre,1444,3817.18
+2026,10. York Centre,1982,5239.37
+2026,11. York South-Weston,1719,4544.14
+2026,12. York South-Weston,1564,4134.4
+2026,13. Parkdale-High Park,2104,5561.88
+2026,14. Parkdale-High Park,1688,4462.19
+2026,15. Eglinton-Lawrence,1832,4842.85
+2026,16. Eglinton-Lawrence,2873,7594.71
+2026,17. Davenport,1661,4390.82
+2026,18. Davenport,1557,4115.9
+2026,19. Trinity-Spadina,2016,5329.25
+2026,20. Trinity-Spadina,2386,6307.34
+2026,21. St. Paul's,2164,5720.49
+2026,22. St. Paul's,2641,6981.43
+2026,23. Willowdale,2502,6613.98
+2026,24. Willowdale,2139,5654.4
+2026,25. Don Valley West,3294,8707.62
+2026,26. Don Valley West,2025,5353.04
+2026,27. Toronto Centre-Rosedale,2713,7171.76
+2026,28. Toronto Centre-Rosedale,2030,5366.26
+2026,29. Toronto-Danforth,1726,4562.64
+2026,30. Toronto-Danforth,1924,5086.05
+2026,31. Beaches-East York,1698,4488.63
+2026,32. Beaches-East York,2178,5757.5
+2026,33. Don Valley East,1787,4723.9
+2026,34. Don Valley East,1822,4816.42
+2026,35. Scarborough Southwest,1682,4446.33
+2026,36. Scarborough Southwest,1807,4776.77
+2026,37. Scarborough Centre,1795,4745.04
+2026,38. Scarborough Centre,1831,4840.21
+2026,39. Scarborough Agincourt,1752,4631.37
+2026,40. Scarborough Agincourt,1767,4671.03
+2026,41. Scarborough-Rouge River,2014,5323.97
+2026,42. Scarborough-Rouge River,2067,5464.07
+2026,43. Scarborough East,1650,4361.74
+2026,44. Scarborough East,2153,5691.41
+2027,1. Etobicoke North,2521,6664.21
+2027,2. Etobicoke North,2564,6777.88
+2027,3. Etobicoke Centre,2906,7681.95
+2027,4. Etobicoke Centre,3157,8345.46
+2027,5. Etobicoke-Lakeshore,3479,9196.66
+2027,6. Etobicoke-Lakeshore,2853,7541.84
+2027,7. York West,2270,6000.7
+2027,8. York West,2054,5429.7
+2027,9. York Centre,2136,5646.47
+2027,10. York Centre,2931,7748.03
+2027,11. York South-Weston,2542,6719.72
+2027,12. York South-Weston,2313,6114.37
+2027,13. Parkdale-High Park,3111,8223.86
+2027,14. Parkdale-High Park,2496,6598.12
+2027,15. Eglinton-Lawrence,2710,7163.83
+2027,16. Eglinton-Lawrence,4249,11232.14
+2027,17. Davenport,2457,6495.03
+2027,18. Davenport,2302,6085.29
+2027,19. Trinity-Spadina,2982,7882.85
+2027,20. Trinity-Spadina,3529,9328.83
+2027,21. St. Paul's,3200,8459.13
+2027,22. St. Paul's,3906,10325.43
+2027,23. Willowdale,3701,9783.51
+2027,24. Willowdale,3164,8363.97
+2027,25. Don Valley West,4872,12879.03
+2027,26. Don Valley West,2996,7919.86
+2027,27. Toronto Centre-Rosedale,4012,10605.63
+2027,28. Toronto Centre-Rosedale,3002,7935.72
+2027,29. Toronto-Danforth,2553,6748.8
+2027,30. Toronto-Danforth,2846,7523.34
+2027,31. Beaches-East York,2511,6637.77
+2027,32. Beaches-East York,3221,8514.64
+2027,33. Don Valley East,2643,6986.71
+2027,34. Don Valley East,2695,7124.17
+2027,35. Scarborough Southwest,2487,6574.33
+2027,36. Scarborough Southwest,2672,7063.37
+2027,37. Scarborough Centre,2654,7015.79
+2027,38. Scarborough Centre,2708,7158.54
+2027,39. Scarborough Agincourt,2591,6849.25
+2027,40. Scarborough Agincourt,2614,6910.05
+2027,41. Scarborough-Rouge River,2979,7874.92
+2027,42. Scarborough-Rouge River,3058,8083.76
+2027,43. Scarborough East,2440,6450.09
+2027,44. Scarborough East,3184,8416.83
+2028,1. Etobicoke North,3661,9677.77
+2028,2. Etobicoke North,3723,9841.67
+2028,3. Etobicoke Centre,4220,11155.48
+2028,4. Etobicoke Centre,4584,12117.7
+2028,5. Etobicoke-Lakeshore,5052,13354.85
+2028,6. Etobicoke-Lakeshore,4142,10949.29
+2028,7. York West,3296,8712.9
+2028,8. York West,2983,7885.5
+2028,9. York Centre,3101,8197.43
+2028,10. York Centre,4256,11250.64
+2028,11. York South-Weston,3691,9757.08
+2028,12. York South-Weston,3358,8876.8
+2028,13. Parkdale-High Park,4518,11943.23
+2028,14. Parkdale-High Park,3625,9582.61
+2028,15. Eglinton-Lawrence,3935,10402.09
+2028,16. Eglinton-Lawrence,6170,16310.26
+2028,17. Davenport,3568,9431.93
+2028,18. Davenport,3343,8837.15
+2028,19. Trinity-Spadina,4331,11448.9
+2028,20. Trinity-Spadina,5125,13547.83
+2028,21. St. Paul's,4647,12284.24
+2028,22. St. Paul's,5671,14991.17
+2028,23. Willowdale,5374,14206.05
+2028,24. Willowdale,4594,12144.14
+2028,25. Don Valley West,7075,18702.61
+2028,26. Don Valley West,4350,11499.13
+2028,27. Toronto Centre-Rosedale,5827,15403.55
+2028,28. Toronto Centre-Rosedale,4359,11522.92
+2028,29. Toronto-Danforth,3707,9799.37
+2028,30. Toronto-Danforth,4133,10925.5
+2028,31. Beaches-East York,3646,9638.12
+2028,32. Beaches-East York,4677,12363.55
+2028,33. Don Valley East,3838,10145.67
+2028,34. Don Valley East,3914,10346.57
+2028,35. Scarborough Southwest,3612,9548.24
+2028,36. Scarborough Southwest,3880,10256.7
+2028,37. Scarborough Centre,3854,10187.97
+2028,38. Scarborough Centre,3932,10394.16
+2028,39. Scarborough Agincourt,3763,9947.41
+2028,40. Scarborough Agincourt,3795,10032
+2028,41. Scarborough-Rouge River,4325,11433.04
+2028,42. Scarborough-Rouge River,4440,11737.04
+2028,43. Scarborough East,3543,9365.84
+2028,44. Scarborough East,4624,12223.44
+2029,1. Etobicoke North,5184,13703.79
+2029,2. Etobicoke North,5272,13936.42
+2029,3. Etobicoke Centre,5976,15797.43
+2029,4. Etobicoke Centre,6491,17158.82
+2029,5. Etobicoke-Lakeshore,7155,18914.09
+2029,6. Etobicoke-Lakeshore,5866,15506.64
+2029,7. York West,4668,12339.76
+2029,8. York West,4224,11166.05
+2029,9. York Centre,4392,11610.16
+2029,10. York Centre,6027,15932.24
+2029,11. York South-Weston,5227,13817.46
+2029,12. York South-Weston,4756,12572.38
+2029,13. Parkdale-High Park,6398,16912.97
+2029,14. Parkdale-High Park,5133,13568.97
+2029,15. Eglinton-Lawrence,5573,14732.1
+2029,16. Eglinton-Lawrence,8738,23098.71
+2029,17. Davenport,5053,13357.5
+2029,18. Davenport,4735,12516.87
+2029,19. Trinity-Spadina,6133,16212.45
+2029,20. Trinity-Spadina,7258,19186.37
+2029,21. St. Paul's,6581,17396.73
+2029,22. St. Paul's,8032,21232.42
+2029,23. Willowdale,7610,20116.87
+2029,24. Willowdale,6506,17198.47
+2029,25. Don Valley West,10020,26487.65
+2029,26. Don Valley West,6160,16283.83
+2029,27. Toronto Centre-Rosedale,8251,21811.34
+2029,28. Toronto Centre-Rosedale,6173,16318.19
+2029,29. Toronto-Danforth,5250,13878.26
+2029,30. Toronto-Danforth,5853,15472.28
+2029,31. Beaches-East York,5163,13648.28
+2029,32. Beaches-East York,6623,17507.76
+2029,33. Don Valley East,5435,14367.3
+2029,34. Don Valley East,5543,14652.8
+2029,35. Scarborough Southwest,5115,13521.39
+2029,36. Scarborough Southwest,5495,14525.91
+2029,37. Scarborough Centre,5458,14428.1
+2029,38. Scarborough Centre,5568,14718.89
+2029,39. Scarborough Agincourt,5329,14087.1
+2029,40. Scarborough Agincourt,5375,14208.7
+2029,41. Scarborough-Rouge River,6125,16191.3
+2029,42. Scarborough-Rouge River,6288,16622.19
+2029,43. Scarborough East,5018,13264.97
+2029,44. Scarborough East,6548,17309.5
+2030,1. Etobicoke North,7107,18787.2
+2030,2. Etobicoke North,7227,19104.42
+2030,3. Etobicoke Centre,8192,21655.37
+2030,4. Etobicoke Centre,8899,23524.31
+2030,5. Etobicoke-Lakeshore,9808,25927.23
+2030,6. Etobicoke-Lakeshore,8041,21256.21
+2030,7. York West,6399,16915.62
+2030,8. York West,5790,15305.74
+2030,9. York Centre,6021,15916.38
+2030,10. York Centre,8262,21840.42
+2030,11. York South-Weston,7165,18940.52
+2030,12. York South-Weston,6519,17232.83
+2030,13. Parkdale-High Park,8771,23185.95
+2030,14. Parkdale-High Park,7037,18602.16
+2030,15. Eglinton-Lawrence,7640,20196.17
+2030,16. Eglinton-Lawrence,11978,31663.58
+2030,17. Davenport,6927,18311.37
+2030,18. Davenport,6490,17156.17
+2030,19. Trinity-Spadina,8407,22223.72
+2030,20. Trinity-Spadina,9949,26299.97
+2030,21. St. Paul's,9021,23846.82
+2030,22. St. Paul's,11010,29104.7
+2030,23. Willowdale,10432,27576.77
+2030,24. Willowdale,8919,23577.18
+2030,25. Don Valley West,13735,36308.17
+2030,26. Don Valley West,8445,22324.17
+2030,27. Toronto Centre-Rosedale,11311,29900.38
+2030,28. Toronto Centre-Rosedale,8462,22369.11
+2030,29. Toronto-Danforth,7197,19025.11
+2030,30. Toronto-Danforth,8023,21208.63
+2030,31. Beaches-East York,7077,18707.9
+2030,32. Beaches-East York,9079,24000.14
+2030,33. Don Valley East,7450,19693.91
+2030,34. Don Valley East,7598,20085.15
+2030,35. Scarborough Southwest,7011,18533.43
+2030,36. Scarborough Southwest,7532,19910.68
+2030,37. Scarborough Centre,7482,19778.5
+2030,38. Scarborough Centre,7632,20175.03
+2030,39. Scarborough Agincourt,7305,19310.61
+2030,40. Scarborough Agincourt,7368,19477.15
+2030,41. Scarborough-Rouge River,8396,22194.64
+2030,42. Scarborough-Rouge River,8619,22784.14
+2030,43. Scarborough East,6878,18181.84
+2030,44. Scarborough East,8977,23730.5
+2031,1. Etobicoke North,9364,24753.53
+2031,2. Etobicoke North,9522,25171.2
+2031,3. Etobicoke Centre,10794,28533.7
+2031,4. Etobicoke Centre,11725,30994.78
+2031,5. Etobicoke-Lakeshore,12922,34159.03
+2031,6. Etobicoke-Lakeshore,10595,28007.65
+2031,7. York West,8431,22287.17
+2031,8. York West,7629,20167.1
+2031,9. York Centre,7933,20970.71
+2031,10. York Centre,10886,28776.9
+2031,11. York South-Weston,9441,24957.08
+2031,12. York South-Weston,8590,22707.48
+2031,13. Parkdale-High Park,11556,30548.03
+2031,14. Parkdale-High Park,9272,24510.33
+2031,15. Eglinton-Lawrence,10066,26609.25
+2031,16. Eglinton-Lawrence,15782,41719.37
+2031,17. Davenport,9126,24124.38
+2031,18. Davenport,8551,22604.38
+2031,19. Trinity-Spadina,11077,29281.81
+2031,20. Trinity-Spadina,13109,34653.36
+2031,21. St. Paul's,11886,31420.38
+2031,22. St. Paul's,14507,38348.94
+2031,23. Willowdale,13745,36334.61
+2031,24. Willowdale,11752,31066.16
+2031,25. Don Valley West,18097,47839.03
+2031,26. Don Valley West,11127,29413.98
+2031,27. Toronto Centre-Rosedale,14903,39395.76
+2031,28. Toronto Centre-Rosedale,11150,29474.78
+2031,29. Toronto-Danforth,9482,25065.46
+2031,30. Toronto-Danforth,10571,27944.21
+2031,31. Beaches-East York,9325,24650.43
+2031,32. Beaches-East York,11962,31621.29
+2031,33. Don Valley East,9816,25948.38
+2031,34. Don Valley East,10011,26463.86
+2031,35. Scarborough Southwest,9238,24420.45
+2031,36. Scarborough Southwest,9924,26233.88
+2031,37. Scarborough Centre,9859,26062.05
+2031,38. Scarborough Centre,10056,26582.82
+2031,39. Scarborough Agincourt,9625,25443.48
+2031,40. Scarborough Agincourt,9708,25662.89
+2031,41. Scarborough-Rouge River,11063,29244.8
+2031,42. Scarborough-Rouge River,11357,30021.98
+2031,43. Scarborough East,9063,23957.84
+2031,44. Scarborough East,11828,31267.06
+2032,1. Etobicoke North,11800,31193.04
+2032,2. Etobicoke North,12000,31721.74
+2032,3. Etobicoke Centre,13603,35959.23
+2032,4. Etobicoke Centre,14775,39057.39
+2032,5. Etobicoke-Lakeshore,16285,43049.04
+2032,6. Etobicoke-Lakeshore,13352,35295.72
+2032,7. York West,10625,28086.96
+2032,8. York West,9615,25417.04
+2032,9. York Centre,9997,26426.85
+2032,10. York Centre,13718,36263.23
+2032,11. York South-Weston,11897,31449.46
+2032,12. York South-Weston,10825,28615.65
+2032,13. Parkdale-High Park,14563,38496.97
+2032,14. Parkdale-High Park,11684,30886.4
+2032,15. Eglinton-Lawrence,12685,33532.52
+2032,16. Eglinton-Lawrence,19889,52576.14
+2032,17. Davenport,11501,30402.64
+2032,18. Davenport,10776,28486.12
+2032,19. Trinity-Spadina,13959,36900.31
+2032,20. Trinity-Spadina,16520,43670.26
+2032,21. St. Paul's,14979,39596.66
+2032,22. St. Paul's,18281,48325.43
+2032,23. Willowdale,17322,45790.33
+2032,24. Willowdale,14809,39147.27
+2032,25. Don Valley West,22806,60287.17
+2032,26. Don Valley West,14022,37066.85
+2032,27. Toronto Centre-Rosedale,18781,49647.17
+2032,28. Toronto Centre-Rosedale,14051,37143.51
+2032,29. Toronto-Danforth,11950,31589.57
+2032,30. Toronto-Danforth,13322,35216.42
+2032,31. Beaches-East York,11752,31066.16
+2032,32. Beaches-East York,15075,39850.43
+2032,33. Don Valley East,12371,32702.47
+2032,34. Don Valley East,12616,33350.12
+2032,35. Scarborough Southwest,11642,30775.37
+2032,36. Scarborough Southwest,12507,33061.98
+2032,37. Scarborough Centre,12424,32842.57
+2032,38. Scarborough Centre,12673,33500.8
+2032,39. Scarborough Agincourt,12130,32065.39
+2032,40. Scarborough Agincourt,12234,32340.31
+2032,41. Scarborough-Rouge River,13942,36855.37
+2032,42. Scarborough-Rouge River,14312,37833.46
+2032,43. Scarborough East,11421,30191.17
+2032,44. Scarborough East,14905,39401.04
+2033,1. Etobicoke North,14203,37545.32
+2033,2. Etobicoke North,14443,38179.76
+2033,3. Etobicoke Centre,16373,43281.67
+2033,4. Etobicoke Centre,17784,47011.62
+2033,5. Etobicoke-Lakeshore,19601,51814.82
+2033,6. Etobicoke-Lakeshore,16071,42483.34
+2033,7. York West,12789,33807.44
+2033,8. York West,11573,30592.97
+2033,9. York Centre,12033,31808.97
+2033,10. York Centre,16512,43649.11
+2033,11. York South-Weston,14320,37854.61
+2033,12. York South-Weston,13029,34441.88
+2033,13. Parkdale-High Park,17529,46337.53
+2033,14. Parkdale-High Park,14064,37177.88
+2033,15. Eglinton-Lawrence,15269,40363.27
+2033,16. Eglinton-Lawrence,23939,63282.23
+2033,17. Davenport,13843,36593.67
+2033,18. Davenport,12971,34288.56
+2033,19. Trinity-Spadina,16802,44415.72
+2033,20. Trinity-Spadina,19885,52565.57
+2033,21. St. Paul's,18029,47659.27
+2033,22. St. Paul's,22004,58167.1
+2033,23. Willowdale,20849,55113.88
+2033,24. Willowdale,17825,47120
+2033,25. Don Valley West,27450,72563.48
+2033,26. Don Valley West,16877,44613.98
+2033,27. Toronto Centre-Rosedale,22606,59758.47
+2033,28. Toronto Centre-Rosedale,16912,44706.5
+2033,29. Toronto-Danforth,14383,38021.15
+2033,30. Toronto-Danforth,16034,42385.53
+2033,31. Beaches-East York,14145,37392
+2033,32. Beaches-East York,18144,47963.27
+2033,33. Don Valley East,14890,39361.39
+2033,34. Don Valley East,15186,40143.86
+2033,35. Scarborough Southwest,14013,37043.06
+2033,36. Scarborough Southwest,15054,39794.92
+2033,37. Scarborough Centre,14954,39530.57
+2033,38. Scarborough Centre,15254,40323.62
+2033,39. Scarborough Agincourt,14600,38594.78
+2033,40. Scarborough Agincourt,14725,38925.22
+2033,41. Scarborough-Rouge River,16781,44360.21
+2033,42. Scarborough-Rouge River,17226,45536.56
+2033,43. Scarborough East,13747,36339.9
+2033,44. Scarborough East,17940,47424
+2034,1. Etobicoke North,16371,43276.38
+2034,2. Etobicoke North,16648,44008.63
+2034,3. Etobicoke Centre,18872,49887.72
+2034,4. Etobicoke Centre,20499,54188.66
+2034,5. Etobicoke-Lakeshore,22594,59726.75
+2034,6. Etobicoke-Lakeshore,18525,48970.43
+2034,7. York West,14741,38967.51
+2034,8. York West,13339,35261.36
+2034,9. York Centre,13869,36662.4
+2034,10. York Centre,19033,50313.32
+2034,11. York South-Weston,16506,43633.25
+2034,12. York South-Weston,15019,39702.4
+2034,13. Parkdale-High Park,20205,53411.48
+2034,14. Parkdale-High Park,16211,42853.43
+2034,15. Eglinton-Lawrence,17600,46525.22
+2034,16. Eglinton-Lawrence,27594,72944.14
+2034,17. Davenport,15956,42179.34
+2034,18. Davenport,14951,39522.64
+2034,19. Trinity-Spadina,19367,51196.24
+2034,20. Trinity-Spadina,22920,60588.52
+2034,21. St. Paul's,20781,54934.12
+2034,22. St. Paul's,25363,67046.54
+2034,23. Willowdale,24032,63528.07
+2034,24. Willowdale,20546,54312.9
+2034,25. Don Valley West,31641,83642.3
+2034,26. Don Valley West,19454,51426.23
+2034,27. Toronto Centre-Rosedale,26057,68881.11
+2034,28. Toronto Centre-Rosedale,19494,51531.97
+2034,29. Toronto-Danforth,16579,43826.23
+2034,30. Toronto-Danforth,18482,48856.77
+2034,31. Beaches-East York,16304,43099.27
+2034,32. Beaches-East York,20915,55288.35
+2034,33. Don Valley East,17163,45370.02
+2034,34. Don Valley East,17504,46271.44
+2034,35. Scarborough Southwest,16152,42697.46
+2034,36. Scarborough Southwest,17352,45869.63
+2034,37. Scarborough Centre,17237,45565.63
+2034,38. Scarborough Centre,17582,46477.63
+2034,39. Scarborough Agincourt,16829,44487.1
+2034,40. Scarborough Agincourt,16974,44870.4
+2034,41. Scarborough-Rouge River,19342,51130.16
+2034,42. Scarborough-Rouge River,19856,52488.9
+2034,43. Scarborough East,15845,41885.91
+2034,44. Scarborough East,20679,54664.49
+2035,1. Etobicoke North,18177,48050.5
+2035,2. Etobicoke North,18484,48862.05
+2035,3. Etobicoke Centre,20954,55391.44
+2035,4. Etobicoke Centre,22760,60165.57
+2035,5. Etobicoke-Lakeshore,25086,66314.3
+2035,6. Etobicoke-Lakeshore,20568,54371.06
+2035,7. York West,16367,43265.81
+2035,8. York West,14811,39152.56
+2035,9. York Centre,15399,40706.92
+2035,10. York Centre,21132,55861.98
+2035,11. York South-Weston,18327,48447.03
+2035,12. York South-Weston,16675,44080
+2035,13. Parkdale-High Park,22433,59301.15
+2035,14. Parkdale-High Park,17999,47579.97
+2035,15. Eglinton-Lawrence,19541,51656.21
+2035,16. Eglinton-Lawrence,30637,80988.24
+2035,17. Davenport,17716,46831.86
+2035,18. Davenport,16600,43881.74
+2035,19. Trinity-Spadina,21503,56842.71
+2035,20. Trinity-Spadina,25448,67271.23
+2035,21. St. Paul's,23073,60992.97
+2035,22. St. Paul's,28161,74442.99
+2035,23. Willowdale,26683,70535.93
+2035,24. Willowdale,22812,60303.03
+2035,25. Don Valley West,35131,92868.03
+2035,26. Don Valley West,21599,57096.49
+2035,27. Toronto Centre-Rosedale,28931,76478.47
+2035,28. Toronto Centre-Rosedale,21644,57215.44
+2035,29. Toronto-Danforth,18407,48658.5
+2035,30. Toronto-Danforth,20521,54246.82
+2035,31. Beaches-East York,18102,47852.24
+2035,32. Beaches-East York,23221,61384.21
+2035,33. Don Valley East,19056,50374.12
+2035,34. Don Valley East,19435,51376
+2035,35. Scarborough Southwest,17934,47408.14
+2035,36. Scarborough Southwest,19266,50929.25
+2035,37. Scarborough Centre,19138,50590.89
+2035,38. Scarborough Centre,19522,51605.98
+2035,39. Scarborough Agincourt,18685,49393.39
+2035,40. Scarborough Agincourt,18846,49818.99
+2035,41. Scarborough-Rouge River,21476,56771.34
+2035,42. Scarborough-Rouge River,22046,58278.12
+2035,43. Scarborough East,17593,46506.71
+2035,44. Scarborough East,22960,60694.26
+2036,1. Etobicoke North,19583,51767.23
+2036,2. Etobicoke North,19915,52644.87
+2036,3. Etobicoke Centre,22575,59676.52
+2036,4. Etobicoke Centre,24522,64823.37
+2036,5. Etobicoke-Lakeshore,27027,71445.29
+2036,6. Etobicoke-Lakeshore,22160,58579.48
+2036,7. York West,17634,46615.1
+2036,8. York West,15957,42181.98
+2036,9. York Centre,16591,43857.95
+2036,10. York Centre,22767,60184.07
+2036,11. York South-Weston,19745,52195.48
+2036,12. York South-Weston,17965,47490.09
+2036,13. Parkdale-High Park,24169,63890.23
+2036,14. Parkdale-High Park,19392,51262.33
+2036,15. Eglinton-Lawrence,21053,55653.15
+2036,16. Eglinton-Lawrence,33008,87255.93
+2036,17. Davenport,19087,50456.07
+2036,18. Davenport,17885,47278.61
+2036,19. Trinity-Spadina,23167,61241.46
+2036,20. Trinity-Spadina,27418,72478.89
+2036,21. St. Paul's,24859,65714.23
+2036,22. St. Paul's,30340,80203.13
+2036,23. Willowdale,28748,75994.71
+2036,24. Willowdale,24578,64971.41
+2036,25. Don Valley West,37849,100053.01
+2036,26. Don Valley West,23271,61516.38
+2036,27. Toronto Centre-Rosedale,31169,82394.57
+2036,28. Toronto Centre-Rosedale,23319,61643.27
+2036,29. Toronto-Danforth,19832,52425.46
+2036,30. Toronto-Danforth,22109,58444.66
+2036,31. Beaches-East York,19503,51555.76
+2036,32. Beaches-East York,25018,66134.54
+2036,33. Don Valley East,20531,54273.25
+2036,34. Don Valley East,20938,55349.15
+2036,35. Scarborough Southwest,19321,51074.64
+2036,36. Scarborough Southwest,20757,54870.68
+2036,37. Scarborough Centre,20619,54505.88
+2036,38. Scarborough Centre,21032,55597.63
+2036,39. Scarborough Agincourt,20131,53215.86
+2036,40. Scarborough Agincourt,20304,53673.18
+2036,41. Scarborough-Rouge River,23138,61164.8
+2036,42. Scarborough-Rouge River,23752,62787.9
+2036,43. Scarborough East,18954,50104.49
+2036,44. Scarborough East,24737,65391.72
+2037,1. Etobicoke North,20624,54519.1
+2037,2. Etobicoke North,20973,55441.67
+2037,3. Etobicoke Centre,23775,62848.7
+2037,4. Etobicoke Centre,25825,68267.83
+2037,5. Etobicoke-Lakeshore,28463,75241.32
+2037,6. Etobicoke-Lakeshore,23337,61690.85
+2037,7. York West,18571,49092.03
+2037,8. York West,16805,44423.65
+2037,9. York Centre,17473,46189.5
+2037,10. York Centre,23977,63382.68
+2037,11. York South-Weston,20794,54968.49
+2037,12. York South-Weston,18920,50014.61
+2037,13. Parkdale-High Park,25454,67287.1
+2037,14. Parkdale-High Park,20422,53985.11
+2037,15. Eglinton-Lawrence,22172,58611.2
+2037,16. Eglinton-Lawrence,34762,91892.59
+2037,17. Davenport,20102,53139.2
+2037,18. Davenport,18835,49789.91
+2037,19. Trinity-Spadina,24398,64495.58
+2037,20. Trinity-Spadina,28875,76330.43
+2037,21. St. Paul's,26180,69206.26
+2037,22. St. Paul's,31952,84464.42
+2037,23. Willowdale,30275,80031.3
+2037,24. Willowdale,25884,68423.79
+2037,25. Don Valley West,39861,105371.69
+2037,26. Don Valley West,24507,64783.72
+2037,27. Toronto Centre-Rosedale,32826,86774.82
+2037,28. Toronto Centre-Rosedale,24558,64918.54
+2037,29. Toronto-Danforth,20886,55211.69
+2037,30. Toronto-Danforth,23284,61550.75
+2037,31. Beaches-East York,20539,54294.4
+2037,32. Beaches-East York,26348,69650.37
+2037,33. Don Valley East,21622,57157.29
+2037,34. Don Valley East,22051,58291.34
+2037,35. Scarborough Southwest,20348,53789.5
+2037,36. Scarborough Southwest,21860,57786.43
+2037,37. Scarborough Centre,21715,57403.13
+2037,38. Scarborough Centre,22150,58553.04
+2037,39. Scarborough Agincourt,21201,56044.38
+2037,40. Scarborough Agincourt,21383,56525.5
+2037,41. Scarborough-Rouge River,24367,64413.63
+2037,42. Scarborough-Rouge River,25014,66123.97
+2037,43. Scarborough East,19962,52769.11
+2037,44. Scarborough East,26051,68865.25
+2038,1. Etobicoke North,21366,56480.56
+2038,2. Etobicoke North,21727,57434.85
+2038,3. Etobicoke Centre,24630,65108.87
+2038,4. Etobicoke Centre,26753,70720.97
+2038,5. Etobicoke-Lakeshore,29487,77948.24
+2038,6. Etobicoke-Lakeshore,24177,63911.37
+2038,7. York West,19238,50855.23
+2038,8. York West,17409,46020.31
+2038,9. York Centre,18101,47849.6
+2038,10. York Centre,24840,65664
+2038,11. York South-Weston,21542,56945.81
+2038,12. York South-Weston,19601,51814.82
+2038,13. Parkdale-High Park,26369,69705.88
+2038,14. Parkdale-High Park,21157,55928.07
+2038,15. Eglinton-Lawrence,22969,60718.05
+2038,16. Eglinton-Lawrence,36012,95196.94
+2038,17. Davenport,20825,55050.43
+2038,18. Davenport,19513,51582.19
+2038,19. Trinity-Spadina,25276,66816.56
+2038,20. Trinity-Spadina,29913,79074.37
+2038,21. St. Paul's,27121,71693.77
+2038,22. St. Paul's,33102,87504.42
+2038,23. Willowdale,31364,82910.05
+2038,24. Willowdale,26815,70884.87
+2038,25. Don Valley West,41294,109159.79
+2038,26. Don Valley West,25389,67115.27
+2038,27. Toronto Centre-Rosedale,34006,89894.12
+2038,28. Toronto Centre-Rosedale,25442,67255.37
+2038,29. Toronto-Danforth,21637,57196.94
+2038,30. Toronto-Danforth,24121,63763.34
+2038,31. Beaches-East York,21278,56247.93
+2038,32. Beaches-East York,27295,72153.74
+2038,33. Don Valley East,22399,59211.27
+2038,34. Don Valley East,22844,60387.62
+2038,35. Scarborough Southwest,21080,55724.52
+2038,36. Scarborough Southwest,22646,59864.21
+2038,37. Scarborough Centre,22496,59467.69
+2038,38. Scarborough Centre,22947,60659.9
+2038,39. Scarborough Agincourt,21963,58058.71
+2038,40. Scarborough Agincourt,22152,58558.33
+2038,41. Scarborough-Rouge River,25244,66731.97
+2038,42. Scarborough-Rouge River,25914,68503.1
+2038,43. Scarborough East,20679,54664.49
+2038,44. Scarborough East,26988,71342.19
+2039,1. Etobicoke North,21882,57844.59
+2039,2. Etobicoke North,22252,58822.68
+2039,3. Etobicoke Centre,25225,66681.74
+2039,4. Etobicoke Centre,27399,72428.66
+2039,5. Etobicoke-Lakeshore,30199,79830.4
+2039,6. Etobicoke-Lakeshore,24760,65452.52
+2039,7. York West,19703,52084.45
+2039,8. York West,17829,47130.57
+2039,9. York Centre,18538,49004.8
+2039,10. York Centre,25439,67247.44
+2039,11. York South-Weston,22062,58320.42
+2039,12. York South-Weston,20074,53065.18
+2039,13. Parkdale-High Park,27006,71389.77
+2039,14. Parkdale-High Park,21667,57276.24
+2039,15. Eglinton-Lawrence,23524,62185.18
+2039,16. Eglinton-Lawrence,36882,97496.77
+2039,17. Davenport,21327,56377.46
+2039,18. Davenport,19984,52827.27
+2039,19. Trinity-Spadina,25886,68429.08
+2039,20. Trinity-Spadina,30635,80982.96
+2039,21. St. Paul's,27776,73425.25
+2039,22. St. Paul's,33901,89616.56
+2039,23. Willowdale,32122,84913.81
+2039,24. Willowdale,27462,72595.2
+2039,25. Don Valley West,42291,111795.34
+2039,26. Don Valley West,26002,68735.72
+2039,27. Toronto Centre-Rosedale,34827,92064.42
+2039,28. Toronto Centre-Rosedale,26056,68878.47
+2039,29. Toronto-Danforth,22159,58576.83
+2039,30. Toronto-Danforth,24703,65301.84
+2039,31. Beaches-East York,21792,57606.68
+2039,32. Beaches-East York,27954,73895.79
+2039,33. Don Valley East,22940,60641.39
+2039,34. Don Valley East,23396,61846.82
+2039,35. Scarborough Southwest,21589,57070.05
+2039,36. Scarborough Southwest,23193,61310.19
+2039,37. Scarborough Centre,23039,60903.1
+2039,38. Scarborough Centre,23501,62124.38
+2039,39. Scarborough Agincourt,22494,59462.4
+2039,40. Scarborough Agincourt,22687,59972.59
+2039,41. Scarborough-Rouge River,25853,68341.84
+2039,42. Scarborough-Rouge River,26539,70155.27
+2039,43. Scarborough East,21179,55986.23
+2039,44. Scarborough East,27640,73065.74
+2040,1. Etobicoke North,22235,58777.74
+2040,2. Etobicoke North,22612,59774.33
+2040,3. Etobicoke Centre,25632,67757.63
+2040,4. Etobicoke Centre,27842,73599.72
+2040,5. Etobicoke-Lakeshore,30687,81120.42
+2040,6. Etobicoke-Lakeshore,25161,66512.56
+2040,7. York West,20022,52927.72
+2040,8. York West,18118,47894.54
+2040,9. York Centre,18838,49797.84
+2040,10. York Centre,25851,68336.56
+2040,11. York South-Weston,22419,59264.14
+2040,12. York South-Weston,20398,53921.67
+2040,13. Parkdale-High Park,27443,72544.97
+2040,14. Parkdale-High Park,22018,58204.1
+2040,15. Eglinton-Lawrence,23904,63189.7
+2040,16. Eglinton-Lawrence,37478,99072.28
+2040,17. Davenport,21672,57289.46
+2040,18. Davenport,20307,53681.11
+2040,19. Trinity-Spadina,26305,69536.7
+2040,20. Trinity-Spadina,31131,82294.12
+2040,21. St. Paul's,28225,74612.17
+2040,22. St. Paul's,34449,91065.18
+2040,23. Willowdale,32641,86285.77
+2040,24. Willowdale,27906,73768.9
+2040,25. Don Valley West,42975,113603.48
+2040,26. Don Valley West,26422,69845.98
+2040,27. Toronto Centre-Rosedale,35391,93555.34
+2040,28. Toronto Centre-Rosedale,26477,69991.37
+2040,29. Toronto-Danforth,22517,59523.2
+2040,30. Toronto-Danforth,25103,66359.23
+2040,31. Beaches-East York,22144,58537.18
+2040,32. Beaches-East York,28406,75090.64
+2040,33. Don Valley East,23311,61622.12
+2040,34. Don Valley East,23774,62846.05
+2040,35. Scarborough Southwest,21938,57992.63
+2040,36. Scarborough Southwest,23567,62298.85
+2040,37. Scarborough Centre,23412,61889.11
+2040,38. Scarborough Centre,23881,63128.9
+2040,39. Scarborough Agincourt,22857,60421.98
+2040,40. Scarborough Agincourt,23054,60942.75
+2040,41. Scarborough-Rouge River,26271,69446.82
+2040,42. Scarborough-Rouge River,26968,71289.32
+2040,43. Scarborough East,21521,56890.3
+2040,44. Scarborough East,28087,74247.37
+2041,1. Etobicoke North,22477,59417.46
+2041,2. Etobicoke North,22857,60421.98
+2041,3. Etobicoke Centre,25911,68495.17
+2041,4. Etobicoke Centre,28145,74400.7
+2041,5. Etobicoke-Lakeshore,31020,82000.7
+2041,6. Etobicoke-Lakeshore,25434,67234.23
+2041,7. York West,20239,53501.36
+2041,8. York West,18314,48412.66
+2041,9. York Centre,19042,50337.11
+2041,10. York Centre,26131,69076.73
+2041,11. York South-Weston,22662,59906.5
+2041,12. York South-Weston,20620,54508.52
+2041,13. Parkdale-High Park,27741,73332.73
+2041,14. Parkdale-High Park,22257,58835.9
+2041,15. Eglinton-Lawrence,24164,63877.01
+2041,16. Eglinton-Lawrence,37885,100148.17
+2041,17. Davenport,21908,57913.32
+2041,18. Davenport,20527,54262.68
+2041,19. Trinity-Spadina,26590,70290.09
+2041,20. Trinity-Spadina,31469,83187.62
+2041,21. St. Paul's,28532,75423.72
+2041,22. St. Paul's,34823,92053.84
+2041,23. Willowdale,32995,87221.57
+2041,24. Willowdale,28209,74569.88
+2041,25. Don Valley West,43442,114837.98
+2041,26. Don Valley West,26709,70604.66
+2041,27. Toronto Centre-Rosedale,35775,94570.43
+2041,28. Toronto Centre-Rosedale,26764,70750.05
+2041,29. Toronto-Danforth,22762,60170.85
+2041,30. Toronto-Danforth,25375,67078.26
+2041,31. Beaches-East York,22385,59174.26
+2041,32. Beaches-East York,28715,75907.48
+2041,33. Don Valley East,23564,62290.92
+2041,34. Don Valley East,24032,63528.07
+2041,35. Scarborough Southwest,22176,58621.77
+2041,36. Scarborough Southwest,23823,62975.58
+2041,37. Scarborough Centre,23666,62560.56
+2041,38. Scarborough Centre,24140,63813.57
+2041,39. Scarborough Agincourt,23105,61077.57
+2041,40. Scarborough Agincourt,23304,61603.62
+2041,41. Scarborough-Rouge River,26556,70200.21
+2041,42. Scarborough-Rouge River,27261,72063.86
+2041,43. Scarborough East,21755,57508.87
+2041,44. Scarborough East,28392,75053.63
+2042,1. Etobicoke North,22642,59853.63
+2042,2. Etobicoke North,23025,60866.09
+2042,3. Etobicoke Centre,26101,68997.43
+2042,4. Etobicoke Centre,28352,74947.9
+2042,5. Etobicoke-Lakeshore,31248,82603.41
+2042,6. Etobicoke-Lakeshore,25621,67728.56
+2042,7. York West,20388,53895.23
+2042,8. York West,18449,48769.53
+2042,9. York Centre,19182,50707.2
+2042,10. York Centre,26323,69584.28
+2042,11. York South-Weston,22829,60347.97
+2042,12. York South-Weston,20772,54910.33
+2042,13. Parkdale-High Park,27945,73872
+2042,14. Parkdale-High Park,22421,59269.43
+2042,15. Eglinton-Lawrence,24341,64344.9
+2042,16. Eglinton-Lawrence,38164,100885.7
+2042,17. Davenport,22069,58338.92
+2042,18. Davenport,20678,54661.84
+2042,19. Trinity-Spadina,26786,70808.21
+2042,20. Trinity-Spadina,31700,83798.26
+2042,21. St. Paul's,28742,75978.85
+2042,22. St. Paul's,35079,92730.57
+2042,23. Willowdale,33238,87863.93
+2042,24. Willowdale,28417,75119.72
+2042,25. Don Valley West,43761,115681.25
+2042,26. Don Valley West,26906,71125.43
+2042,27. Toronto Centre-Rosedale,36038,95265.67
+2042,28. Toronto Centre-Rosedale,26961,71270.82
+2042,29. Toronto-Danforth,22929,60612.31
+2042,30. Toronto-Danforth,25562,67572.59
+2042,31. Beaches-East York,22549,59607.79
+2042,32. Beaches-East York,28926,76465.25
+2042,33. Don Valley East,23737,62748.24
+2042,34. Don Valley East,24209,63995.97
+2042,35. Scarborough Southwest,22339,59052.66
+2042,36. Scarborough Southwest,23999,63440.83
+2042,37. Scarborough Centre,23840,63020.52
+2042,38. Scarborough Centre,24318,64284.1
+2042,39. Scarborough Agincourt,23275,61526.96
+2042,40. Scarborough Agincourt,23475,62055.65
+2042,41. Scarborough-Rouge River,26752,70718.33
+2042,42. Scarborough-Rouge River,27462,72595.2
+2042,43. Scarborough East,21915,57931.83
+2042,44. Scarborough East,28601,75606.12
+2043,1. Etobicoke North,22757,60157.63
+2043,2. Etobicoke North,23142,61175.37
+2043,3. Etobicoke Centre,26234,69349.01
+2043,4. Etobicoke Centre,28495,75325.91
+2043,5. Etobicoke-Lakeshore,31407,83023.72
+2043,6. Etobicoke-Lakeshore,25751,68072.21
+2043,7. York West,20491,54167.51
+2043,8. York West,18543,49018.02
+2043,9. York Centre,19280,50966.26
+2043,10. York Centre,26457,69938.5
+2043,11. York South-Weston,22945,60654.61
+2043,12. York South-Weston,20877,55187.9
+2043,13. Parkdale-High Park,28086,74244.73
+2043,14. Parkdale-High Park,22534,59568.14
+2043,15. Eglinton-Lawrence,24465,64672.7
+2043,16. Eglinton-Lawrence,38357,101395.9
+2043,17. Davenport,22181,58634.99
+2043,18. Davenport,20783,54939.41
+2043,19. Trinity-Spadina,26922,71167.72
+2043,20. Trinity-Spadina,31861,84223.86
+2043,21. St. Paul's,28887,76362.16
+2043,22. St. Paul's,35257,93201.11
+2043,23. Willowdale,33406,88308.03
+2043,24. Willowdale,28561,75500.38
+2043,25. Don Valley West,43983,116268.1
+2043,26. Don Valley West,27042,71484.94
+2043,27. Toronto Centre-Rosedale,36221,95749.43
+2043,28. Toronto Centre-Rosedale,27098,71632.97
+2043,29. Toronto-Danforth,23046,60921.6
+2043,30. Toronto-Danforth,25692,67916.24
+2043,31. Beaches-East York,22664,59911.79
+2043,32. Beaches-East York,29073,76853.84
+2043,33. Don Valley East,23858,63068.1
+2043,34. Don Valley East,24332,64321.11
+2043,35. Scarborough Southwest,22452,59351.37
+2043,36. Scarborough Southwest,24120,63760.7
+2043,37. Scarborough Centre,23961,63340.38
+2043,38. Scarborough Centre,24441,64609.25
+2043,39. Scarborough Agincourt,23393,61838.89
+2043,40. Scarborough Agincourt,23594,62370.23
+2043,41. Scarborough-Rouge River,26887,71075.2
+2043,42. Scarborough-Rouge River,27601,72962.64
+2043,43. Scarborough East,22026,58225.25
+2043,44. Scarborough East,28746,75989.43
+2044,1. Etobicoke North,22839,60374.4
+2044,2. Etobicoke North,23225,61394.78
+2044,3. Etobicoke Centre,26328,69597.5
+2044,4. Etobicoke Centre,28598,75598.19
+2044,5. Etobicoke-Lakeshore,31519,83319.79
+2044,6. Etobicoke-Lakeshore,25843,68315.41
+2044,7. York West,20565,54363.13
+2044,8. York West,18609,49192.49
+2044,9. York Centre,19349,51148.66
+2044,10. York Centre,26552,70189.63
+2044,11. York South-Weston,23027,60871.37
+2044,12. York South-Weston,20952,55386.16
+2044,13. Parkdale-High Park,28187,74511.72
+2044,14. Parkdale-High Park,22615,59782.26
+2044,15. Eglinton-Lawrence,24553,64905.32
+2044,16. Eglinton-Lawrence,38495,101760.7
+2044,17. Davenport,22260,58843.83
+2044,18. Davenport,20858,55137.67
+2044,19. Trinity-Spadina,27018,71421.5
+2044,20. Trinity-Spadina,31975,84525.22
+2044,21. St. Paul's,28991,76637.08
+2044,22. St. Paul's,35383,93534.19
+2044,23. Willowdale,33526,88625.25
+2044,24. Willowdale,28663,75770.02
+2044,25. Don Valley West,44141,116685.77
+2044,26. Don Valley West,27139,71741.36
+2044,27. Toronto Centre-Rosedale,36350,96090.43
+2044,28. Toronto Centre-Rosedale,27195,71889.39
+2044,29. Toronto-Danforth,23128,61138.37
+2044,30. Toronto-Danforth,25784,68159.44
+2044,31. Beaches-East York,22745,60125.91
+2044,32. Beaches-East York,29177,77128.77
+2044,33. Don Valley East,23943,63292.8
+2044,34. Don Valley East,24419,64551.1
+2044,35. Scarborough Southwest,22533,59565.5
+2044,36. Scarborough Southwest,24207,63990.68
+2044,37. Scarborough Centre,24047,63567.72
+2044,38. Scarborough Centre,24528,64839.23
+2044,39. Scarborough Agincourt,23477,62060.94
+2044,40. Scarborough Agincourt,23679,62594.92
+2044,41. Scarborough-Rouge River,26984,71331.62
+2044,42. Scarborough-Rouge River,27700,73224.35
+2044,43. Scarborough East,22105,58434.09
+2044,44. Scarborough East,28849,76261.7
+2045,1. Etobicoke North,22899,60533.01
+2045,2. Etobicoke North,23286,61556.03
+2045,3. Etobicoke Centre,26397,69779.9
+2045,4. Etobicoke Centre,28673,75796.45
+2045,5. Etobicoke-Lakeshore,31602,83539.2
+2045,6. Etobicoke-Lakeshore,25911,68495.17
+2045,7. York West,20619,54505.88
+2045,8. York West,18658,49322.02
+2045,9. York Centre,19399,51280.83
+2045,10. York Centre,26622,70374.68
+2045,11. York South-Weston,23088,61032.63
+2045,12. York South-Weston,21007,55531.55
+2045,13. Parkdale-High Park,28261,74707.34
+2045,14. Parkdale-High Park,22674,59938.23
+2045,15. Eglinton-Lawrence,24617,65074.5
+2045,16. Eglinton-Lawrence,38596,102027.69
+2045,17. Davenport,22319,58999.79
+2045,18. Davenport,20912,55280.42
+2045,19. Trinity-Spadina,27089,71609.18
+2045,20. Trinity-Spadina,32059,84747.27
+2045,21. St. Paul's,29067,76837.98
+2045,22. St. Paul's,35476,93780.03
+2045,23. Willowdale,33614,88857.88
+2045,24. Willowdale,28738,75968.28
+2045,25. Don Valley West,44257,116992.42
+2045,26. Don Valley West,27210,71929.04
+2045,27. Toronto Centre-Rosedale,36446,96344.21
+2045,28. Toronto Centre-Rosedale,27267,72079.72
+2045,29. Toronto-Danforth,23189,61299.62
+2045,30. Toronto-Danforth,25851,68336.56
+2045,31. Beaches-East York,22805,60284.52
+2045,32. Beaches-East York,29254,77332.31
+2045,33. Don Valley East,24006,63459.34
+2045,34. Don Valley East,24483,64720.28
+2045,35. Scarborough Southwest,22592,59721.46
+2045,36. Scarborough Southwest,24270,64157.22
+2045,37. Scarborough Centre,24110,63734.26
+2045,38. Scarborough Centre,24593,65011.06
+2045,39. Scarborough Agincourt,23539,62224.83
+2045,40. Scarborough Agincourt,23741,62758.82
+2045,41. Scarborough-Rouge River,27055,71519.3
+2045,42. Scarborough-Rouge River,27773,73417.32
+2045,43. Scarborough East,22163,58587.41
+2045,44. Scarborough East,28925,76462.61

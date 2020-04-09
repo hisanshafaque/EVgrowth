@@ -10,3 +10,4 @@ Model input parameters included a distrubtion by 2016 electoral wards of:
 
 The City of Toronto released an updated [EV Strategy Staff Report](https://www.toronto.ca/legdocs/mmis/2020/ie/bgrd/backgroundfile-141238.pdf) highlighting city wide EV plans and goals for the next three decades.
 
+![Logo](/evgrowth.png)
